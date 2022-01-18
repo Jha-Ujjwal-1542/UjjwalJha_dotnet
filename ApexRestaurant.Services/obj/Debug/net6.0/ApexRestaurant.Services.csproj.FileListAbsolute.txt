@@ -1,0 +1,30 @@
+E:\Course\Anshu\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net6.0\ApexRestaurant.Services.deps.json
+E:\Course\Anshu\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net6.0\ApexRestaurant.Services.dll
+E:\Course\Anshu\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net6.0\ref\ApexRestaurant.Services.dll
+E:\Course\Anshu\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net6.0\ApexRestaurant.Services.pdb
+E:\Course\Anshu\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net6.0\ApexRestaurant.Repository.dll
+E:\Course\Anshu\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net6.0\ApexRestaurant.Repository.pdb
+E:\Course\Anshu\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.csproj.AssemblyReference.cache
+E:\Course\Anshu\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\Anshu\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.AssemblyInfoInputs.cache
+E:\Course\Anshu\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.AssemblyInfo.cs
+E:\Course\Anshu\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.csproj.CoreCompileInputs.cache
+E:\Course\Anshu\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.csproj.CopyComplete
+E:\Course\Anshu\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.dll
+E:\Course\Anshu\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ref\ApexRestaurant.Services.dll
+E:\Course\Anshu\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.pdb
+E:\Course\7th sem\Dot Net\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net6.0\ApexRestaurant.Services.deps.json
+E:\Course\7th sem\Dot Net\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net6.0\ApexRestaurant.Services.dll
+E:\Course\7th sem\Dot Net\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net6.0\ref\ApexRestaurant.Services.dll
+E:\Course\7th sem\Dot Net\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net6.0\ApexRestaurant.Services.pdb
+E:\Course\7th sem\Dot Net\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net6.0\ApexRestaurant.Repository.dll
+E:\Course\7th sem\Dot Net\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net6.0\ApexRestaurant.Repository.pdb
+E:\Course\7th sem\Dot Net\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.csproj.AssemblyReference.cache
+E:\Course\7th sem\Dot Net\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\7th sem\Dot Net\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.AssemblyInfoInputs.cache
+E:\Course\7th sem\Dot Net\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.AssemblyInfo.cs
+E:\Course\7th sem\Dot Net\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.csproj.CoreCompileInputs.cache
+E:\Course\7th sem\Dot Net\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.csproj.CopyComplete
+E:\Course\7th sem\Dot Net\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.dll
+E:\Course\7th sem\Dot Net\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ref\ApexRestaurant.Services.dll
+E:\Course\7th sem\Dot Net\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net6.0\ApexRestaurant.Services.pdb
