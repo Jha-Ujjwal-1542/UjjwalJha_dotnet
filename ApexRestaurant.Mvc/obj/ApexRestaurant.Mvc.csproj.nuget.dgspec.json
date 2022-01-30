@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Course\\Anshu\\ApexRestaurant\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj": {}
+    "E:\\Course\\7th sem\\Dot Net\\ApexRestaurant\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj": {}
   },
   "projects": {
-    "E:\\Course\\Anshu\\ApexRestaurant\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj": {
+    "E:\\Course\\7th sem\\Dot Net\\ApexRestaurant\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Course\\Anshu\\ApexRestaurant\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj",
+        "projectUniqueName": "E:\\Course\\7th sem\\Dot Net\\ApexRestaurant\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj",
         "projectName": "ApexRestaurant.Mvc",
-        "projectPath": "E:\\Course\\Anshu\\ApexRestaurant\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj",
+        "projectPath": "E:\\Course\\7th sem\\Dot Net\\ApexRestaurant\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj",
         "packagesPath": "C:\\Users\\Ujjwal Jha\\.nuget\\packages\\",
-        "outputPath": "E:\\Course\\Anshu\\ApexRestaurant\\ApexRestaurant.Mvc\\obj\\",
+        "outputPath": "E:\\Course\\7th sem\\Dot Net\\ApexRestaurant\\ApexRestaurant.Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ujjwal Jha\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,6 +57,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Net.Http.Formatting.Extension": {
+              "target": "Package",
+              "version": "[5.2.3, )"
             }
           },
           "imports": [

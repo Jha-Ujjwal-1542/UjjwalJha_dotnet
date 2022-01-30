@@ -3,7 +3,7 @@ using ApexRestaurant.Services.SStaff;
 using Microsoft.AspNetCore.Mvc;
 namespace ApexRestaurant.Api.Controller
 {
-   [Route("api/menuitem")]
+   [Route("api/staff")]
    public class StaffController : ControllerBase
    {
 

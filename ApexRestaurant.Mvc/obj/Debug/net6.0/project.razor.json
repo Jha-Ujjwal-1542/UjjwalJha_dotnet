@@ -16318,6 +16318,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\Course\\7th sem\\Dot Net\\ApexRestaurant\\ApexRestaurant.Mvc\\Views\\Customer\\View.cshtml",
+      "TargetPath": "Views\\Customer\\View.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\Course\\7th sem\\Dot Net\\ApexRestaurant\\ApexRestaurant.Mvc\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -16340,6 +16345,16 @@
     {
       "FilePath": "e:\\Course\\7th sem\\Dot Net\\ApexRestaurant\\ApexRestaurant.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\Course\\7th sem\\Dot Net\\ApexRestaurant\\ApexRestaurant.Mvc\\Views\\Customer\\Index.cshtml",
+      "TargetPath": "Views\\Customer\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\Course\\7th sem\\Dot Net\\ApexRestaurant\\ApexRestaurant.Mvc\\Views\\Customer\\Edit.cshtml",
+      "TargetPath": "Views\\Customer\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],

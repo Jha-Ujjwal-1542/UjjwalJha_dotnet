@@ -10,9 +10,9 @@
   "profiles": {
     "ApexRestaurant.Mvc": {
       "commandName": "Project",
-      "dotnetRunMessages": true,
+      "dotnetRunMessages": "true",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7258;http://localhost:5228",
+      "applicationUrl": "https://localhost:9001;http://localhost:9000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
